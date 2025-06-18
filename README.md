@@ -1,5 +1,5 @@
 # Custom 404 Error Page
- A fun, space-themed 404 page using only HTML and CSS.
+ A fun, space-themed 404 page using HTML and CSS.
 
 # Preview
 ![Custom 404 Page Preview](preview.png)

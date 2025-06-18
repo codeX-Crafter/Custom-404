@@ -1,7 +1,7 @@
 # Custom 404 Error Page
  A fun, space-themed 404 page using only HTML and CSS.
 
-[image](https://github.com/user-attachments/assets/3fbeb8b8-c00d-488f-93d5-d6a311292f26)
+![404 Error](404-rafiki.png)
 
 # Features
  Astronaut, rocket, and planets design
